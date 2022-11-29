@@ -1,0 +1,2 @@
+fr.leo.inversiondecontrole.dao.DaoImpl
+fr.leo.inversiondecontrole.metier.MetierImpl
